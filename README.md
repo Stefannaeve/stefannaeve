@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stefannaeve)](https://github.com/stefannaeve/github-readme-stats)
+
 <!--
 **Stefannaeve/stefannaeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
